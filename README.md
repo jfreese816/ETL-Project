@@ -1,5 +1,4 @@
 # ETL-Project
-Group Project # 2 
 
 # Guidelines for ETL Project
 
